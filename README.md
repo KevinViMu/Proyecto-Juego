@@ -1,12 +1,13 @@
 # Proyecto-Juego
-Creación de juegos en Ardora y Exelearning
+
+# Creación de juegos en Ardora y Exelearning
 
 Nos hemos propuesto a desarrollar dos juegos en diferentes softwares aplicativos, uno fue realizado en Ardora y el otro fue realizado en Exelearning. Claramente nos hemos guiado con los recursos obtenidos desde la pagina de nuestra universidad “Politécnica Salesiana”, la temática de ambos juegos está basada para el aprendizaje intuitivo de Python.
 
 Como hemos dicho anteriormente un juego fue realizado en Ardora y este se basa en una “Sopa de Letras” con el fin de poder buscar dichas palabras relacionadas a frases códigos o sentencias utilizadas en Python. Más adelante iremos viendo como fue el desarrollo del juego hasta llegar al diseño final del mismo.
 
 
-Ardora
+# Ardora
 
 En primer lugar, tenemos el interfaz de Ardora, para la creación del juego en el caso de “Sopa de Letras” nos tendremos que ir a. Nueva Actividad – Juego de Palabras – Sopa de Letras.
 
